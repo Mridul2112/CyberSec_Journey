@@ -34,5 +34,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue">
+  <img src="https://komarev.com/ghpvc/?username=Mridul2112&color=blue">
 </p>
