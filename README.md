@@ -1,21 +1,38 @@
-🛡️ CyberSec Journey — Cyber Peace Corps
+# 🛡️ Mridul Mathur — Cybersecurity Journey
 
-👤 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F72D&center=true&vCenter=true&width=600&lines=Cybersecurity+Enthusiast;Future+Security+Researcher;CTF+Learner;Always+Learning+New+Things" />
+</p>
 
-Field	Details
+---
 
-Name	Mridul Mathur
+## 👨‍💻 Profile
 
-University	KIIT University
+| Attribute        | Details           |
+| ---------------- | ----------------- |
+| **Name**         | Mridul Mathur     |
+| **University**   | KIIT University   |
+| **Year**         | 1st Year          |
+| **Branch**       | CSE               |
+| **Society**      | Cyber Peace Corps |
+| **Focus Domain** | Cybersecurity and Digital Forensics   |
 
-Year	1st
+---
 
-Branch	CSE
+## 🌐 Connect With Me
 
-Society	Cyber Peace Corps
+* 🔗 LinkedIn → 
+* 🎯 TryHackMe → 
 
-Domain	CyberSecurity
+---
 
-TryHackMe	Profile Link
+## 🧭 Philosophy
 
-LinkedIn	Profile Link
+> Security is not a tool.
+> It is a mindset.
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue">
+</p>
