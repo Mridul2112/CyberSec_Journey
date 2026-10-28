@@ -12,7 +12,7 @@
 | ---------------- | ----------------- |
 | **Name**         | Mridul Mathur     |
 | **University**   | KIIT University   |
-| **Year**         | 1st Year          |
+| **Year**         | 2nd Year          |
 | **Branch**       | CSE               |
 | **Society**      | Cyber Peace Corps |
 | **Focus Domain** | Cybersecurity and Digital Forensics   |
